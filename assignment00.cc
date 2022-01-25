@@ -11,7 +11,7 @@
 int main()
 {
 
-	std::cut << "I hope I am submitting this asssignment correctly." << std::endl;
+	std::cout << "I hope I am submitting this asssignment correctly." << std::endl;
 	
 	return 0;
 
