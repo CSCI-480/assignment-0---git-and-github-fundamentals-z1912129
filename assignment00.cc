@@ -5,14 +5,3 @@
 	I certify that this is my own work and where appropriate an extension 
 	of the starter code provided for the assignment.
 */
-
-#include <iostream>
-
-int main()
-{
-
-	std::cout << "I hope I am submitting this asssignment correctly." << std::endl;
-	
-	return 0;
-
-}
